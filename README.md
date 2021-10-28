@@ -1,4 +1,4 @@
-#DOE TECH
+<h1 align="center"> DOE TEC - PLATAFORMA DE DOAÇÃO DE APARELHOS ELETRÔNICOS </h1> <br>
 
 <p align="center">
   <img  src="imagens/WhatsApp Image 2021-10-28 at 13.50.03.jpeg" width=400px />
