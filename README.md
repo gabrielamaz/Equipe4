@@ -1,11 +1,10 @@
 
+<img  src="imagens/WhatsApp Image 2021-10-28 at 13.50.03.jpeg" style="max-height:350px"/>
 
-<img src="imagens/WhatsApp Image 2021-10-28 at 13.50.03.jpeg"/>
 
 <p align="center">Faça doação para quem precisa!!</p>
 
 <p align="center">
-
   
 
 ## 👨🏻‍💻 Sobre o projeto
@@ -20,7 +19,7 @@
 ## ✅  Funcionalidades disponíveis
 - Cadastro de usuário
 - Cadastro de itens
-- Listagem deitens
+- Listagem de itens
 ## 🚀 Tecnologias utilizadas
 
 -  Android Studio
