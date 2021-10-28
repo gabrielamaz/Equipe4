@@ -1,7 +1,7 @@
 
+<p align="center">
 <img  src="imagens/WhatsApp Image 2021-10-28 at 13.50.03.jpeg" style="max-height:350px"/>
-
-
+</p>
 <p align="center">Faça doação para quem precisa!!</p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 ---
 ## Erradicação da pobreza
 <br>
-
-<img src="imagens/WhatsApp Image 2021-10-28 at 13.53.16.jpeg">
-
+<p align="center">
+<img src="imagens/WhatsApp Image 2021-10-28 at 13.53.16.jpeg" style="max-height:350px">
+</p>
 
 <br> 
 
