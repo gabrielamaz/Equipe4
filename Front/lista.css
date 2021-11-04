@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  height: 100%;
+}
+
+header {
+  background: #0B3585;
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  margin-left: 6rem;
+  margin-top: 0.1rem;
+  padding: 0.2rem;
+}
+
+.header-right {
+  float: right;
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  color: white;
+  padding: 1.8rem;
+  margin-right: 3rem;
+  text-decoration: none;
+}
+
+main {
+  background-color: #0F5160;
+  background-image: url(images/fundo.png);
+  height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  width: 95%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+div .item__doacao {
+  width: 70%;
+  height: 150px;
+  border-radius: 5px;
+  margin: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background: rgba(11, 53, 133, 0.7);
+}
+
+.img__item>img {
+  height: 120px;
+  margin-left: 10px;
+}
+
+.contato__item {
+  padding-right: 10px;
+  margin-bottom: 42px;
+}
+
+.img__item {
+  display: flex;
+  flex-direction: row;
+}
+
+.descricao__item, .contato__item {
+  margin-top: 5px;
+  margin-left: 20px;
+}

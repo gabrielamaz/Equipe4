@@ -1,28 +1,24 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  position: relative;
 }
 
 body {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
+  height: 100%;
 }
 
 header {
   background: #0B3585;
   display: flex;
   justify-content: space-between;
-  height: 10%;
 }
-
-/* 
-footer {
-  background: #0B3585;
-  display: flex;
-  text-align: center;
-  flex-direction: column;
-  justify-content: space-evenly;
-  height: 10%;
-} */
 
 img {
   margin-left: 6rem;
@@ -32,12 +28,13 @@ img {
 
 .header-right {
   float: right;
+  text-align: center;
 }
 
 a {
   display: inline-block;
   color: white;
-  padding: 1.6rem 0.5rem;
+  padding: 1.8rem;
   margin-right: 3rem;
   text-decoration: none;
 }
@@ -45,5 +42,90 @@ a {
 #main {
   background-color: #0F5160;
   background-image: url(images/fundo.png);
-  height: 80vh;
+  height: 88.5vh;
+}
+
+.signin {
+  position: absolute;
+  width: 429px;
+  height: 222px;
+  left: 65%;
+  top: 87px;
+  background: rgba(11, 53, 133, 0.5);
+  border-radius: 20px;
+}
+
+.login-title {
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(241, 240, 240);
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  width: 80%;
+  height: 30px;
+  border-radius: 7px;
+  padding: 5px;
+  margin-bottom: 15px;
+  border-color: #fff;
+}
+
+a>signupbtn {
+  width: 268px;
+  height: 15px;
+  background: #2E57E9;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 20%;
+}
+
+.imageScreen {
+  width: 700px;
+  height: 500px;
+  left: 34px;
+  top: 220px;
+  padding: 20px;
+}
+
+.signup {
+  position: absolute;
+  background: rgba(11, 53, 133, 0.5);
+  width: 429px;
+  height: 302px;
+  left: 65%;
+  top: 320px;
+  border-radius: 10px;
+}
+
+.cadastrar__item {
+  position: absolute;
+  width: 429px;
+  height: 300px;
+  left: 65%;
+  top: 87px;
+  background: rgba(11, 53, 133, 0.5);
+  border-radius: 20px;
+  margin-top: 100px;
+}
+
+a.btn {
+  margin-left: 150px;
+  width: 120px;
+  padding: 10px;
+  background: #069cc2;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
 }

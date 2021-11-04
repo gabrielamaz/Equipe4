@@ -15,21 +15,54 @@
   <header>
     <img src="images\logo.png" alt="Logo da Doetec" />
     <div class="header-right">
-      <a class="active" href="#home">Lista de itens</a>
-      <a href="#contact">Faça sua doação</a>
     </div>
   </header>
 
   <main id="main">
-    <!-- <img class="img" src="images\fundo.png" /> -->
-    <div class="form-login">
-      <p class="title">Acesse sua conta</p>
+    <img class="imageScreen" src="images/imgdoetec.png" />
+    <div class="signin">
+      <div id="id01" class="modal">
+
+        <form class="modal-content">
+          <div class="container">
+            <p class="login-title">Já é cadastrado?</p>
+            <div class="inputs">
+              <br>
+              <input type="text" placeholder="E-mail" name="email" required>
+              <input type="password" placeholder="Senha" name="psw" required>
+            </div>
+            <a type="submit" class="signupbtn btn" onClick="test()">Entrar</a>
+          </div>
+
+      </div>
+      </form>
     </div>
+    <div class="signup">
+      <div id="id02" class="modal">
 
+        <form class="modal-content">
+          <div class="container">
+            <p class="login-title">Crie sua conta</p>
+            <div class="inputs">
+              <br>
+              <input type="text" placeholder="E-mail" name="email" required>
+              <input type="name" placeholder="Nome" name="name" required>
+              <input type="endereco" placeholder="Endereço" name="endereco" required>
+              <input type="password" placeholder="Senha" name="psw" required>
+            </div>
+            <a type="submit" class="signupbtn btn" href="/lista.html">Cadastrar</a>
+          </div>
 
+      </div>
+      </form>
+    </div>
+    </div>
   </main>
-
+  <script>
+    function test() {
+      window.location.href = "/lista.html"
+    }
+  </script>
 </body>
-
 
 </html>
