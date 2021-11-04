@@ -1,3 +1,18 @@
+<h1 align="center">Erradicação da pobreza </h1>
+<br>
+<p align="center">
+<img src="imagens/WhatsApp Image 2021-10-28 at 13.53.16.jpeg" width=300px>
+</p>
+
+<br> 
+
+## Meta 1.4
+
+<p align="justify">
+  <strong style="color:#e5233d">Até 2030</strong>, garantir que todos os homens e mulheres, particularmente os pobres e vulneráveis, <strong style="color:#e5233d">tenham direitos iguais </strong>aos recursos econômicos, bem como o acesso a serviços básicos, propriedade e controle sobre a terra e outras formas de propriedade, herança, recursos naturais, <strong style="color:#e5233d">novas tecnologias apropriadas e serviços financeiros, incluindo microfinanças.</strong></p><br>
+
+---
+
 <h1 align="center"> DOE TEC - PLATAFORMA DE DOAÇÃO DE APARELHOS ELETRÔNICOS </h1> <br>
 
 <p align="center">
@@ -37,20 +52,6 @@
 -  Figma
 
 ---
-
-<h1 align="center">Erradicação da pobreza </h1>
-<br>
-<p align="center">
-<img src="imagens/WhatsApp Image 2021-10-28 at 13.53.16.jpeg" width=300px>
-</p>
-
-<br> 
-
-## Meta 1.4
-
-<p align="justify">
-  <strong style="color:#e5233d">Até 2030</strong>, garantir que todos os homens e mulheres, particularmente os pobres e vulneráveis, <strong style="color:#e5233d">tenham direitos iguais </strong>aos recursos econômicos, bem como o acesso a serviços básicos, propriedade e controle sobre a terra e outras formas de propriedade, herança, recursos naturais, <strong style="color:#e5233d">novas tecnologias apropriadas e serviços financeiros, incluindo microfinanças.</strong></p><br>
-
 
  ## 👨‍💻 Team / Developers
 - Douglas Moreira
