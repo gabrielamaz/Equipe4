@@ -24,8 +24,9 @@
 - Listagem de itens
 ## 🚀 Tecnologias utilizadas
 
--  Android Studio
--  Java
+-  .NET 5
+-  HTML
+-  CSS
 -  Room
 
 ---
