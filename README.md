@@ -27,7 +27,6 @@
 -  .NET 5
 -  HTML
 -  CSS
--  Room
 
 ---
 
