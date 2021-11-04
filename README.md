@@ -18,15 +18,23 @@
 - Faça um comentário sobre o doador na plataforma (Disponível na versão 2.0) 
  </p>
 
-## ✅  Funcionalidades disponíveis
+## ✅  Funcionalidades em desenvolvimento
 - Cadastro de usuário
 - Cadastro de itens
 - Listagem de itens
+
+
 ## 🚀 Tecnologias utilizadas
 
 -  .NET 5
+-  C#
 -  HTML
 -  CSS
+-  PostgreSQL
+-  Dbeaver
+-  Visual Studio
+-  VScode
+-  Figma
 
 ---
 
