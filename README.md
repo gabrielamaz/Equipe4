@@ -6,6 +6,9 @@
 
 <br> 
 
+## Meta 1.a
+<p>Garantir uma mobilização significativa de recursos a partir de uma variedade de fontes, inclusive por meio do reforço da cooperação para o desenvolvimento, para proporcionar meios adequados e previsíveis para que os países em desenvolvimento, em particular os países menos desenvolvidos, implementem programas e políticas para acabar com a pobreza em todas as suas dimensões.</p>
+
 ## Meta 1.4
 
 <p align="justify">
